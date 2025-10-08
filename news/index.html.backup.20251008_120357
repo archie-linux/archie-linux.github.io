@@ -437,15 +437,6 @@
                     </div>
                     <ul class="news-list">
                         <li>
-                            <a href="https://archie-linux.github.io/news/tech_news_20251008_120058.html" target="_blank">
-                                <span>Technology Updates</span>
-                                <div>
-                                    <span class="news-date">October 08, 2025</span>
-                                    <i class="fas fa-external-link-alt news-arrow"></i>
-                                </div>
-                            </a>
-                        </li>
-                        <li>
                             <a href="https://archie-linux.github.io/news/tech_news_20251005_082328.html" target="_blank">
                                 <span>Technology Updates</span>
                                 <div>
@@ -671,15 +662,6 @@
                     </div>
                     <ul class="news-list">
                         <li>
-                            <a href="https://archie-linux.github.io/news/security_news_20251008_120211.html" target="_blank">
-                                <span>Security Updates</span>
-                                <div>
-                                    <span class="news-date">October 08, 2025</span>
-                                    <i class="fas fa-external-link-alt news-arrow"></i>
-                                </div>
-                            </a>
-                        </li>
-                        <li>
                             <a href="https://archie-linux.github.io/news/security_news_20251005_082442.html" target="_blank">
                                 <span>Security Updates</span>
                                 <div>
@@ -896,15 +878,6 @@
                     </div>
                     <ul class="news-list">
                         <li>
-                            <a href="https://archie-linux.github.io/news/robotics_news_20251008_120303.html" target="_blank">
-                                <span>Robotics Updates</span>
-                                <div>
-                                    <span class="news-date">October 08, 2025</span>
-                                    <i class="fas fa-external-link-alt news-arrow"></i>
-                                </div>
-                            </a>
-                        </li>
-                        <li>
                             <a href="https://archie-linux.github.io/news/robotics_news_20251005_082537.html" target="_blank">
                                 <span>Robotics Updates</span>
                                 <div>
@@ -1120,15 +1093,6 @@
                         <span>Linux distributions and open source news</span>
                     </div>
                     <ul class="news-list">
-                        <li>
-                            <a href="https://archie-linux.github.io/news/linux_news_20251008_120357.html" target="_blank">
-                                <span>Linux Updates</span>
-                                <div>
-                                    <span class="news-date">October 08, 2025</span>
-                                    <i class="fas fa-external-link-alt news-arrow"></i>
-                                </div>
-                            </a>
-                        </li>
                         <li>
                             <a href="https://archie-linux.github.io/news/linux_news_20251005_082632.html" target="_blank">
                                 <span>Linux Updates</span>
